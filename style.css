@@ -1,0 +1,30 @@
+body{
+	text-align: center;
+}
+
+h1{
+	text-align: justify;
+	font-weight: bold;
+	font-size: large;
+	color: crimson;
+}
+
+h2{
+	color: teal;
+	font-size: large;
+	text-align: justify;
+}
+
+h3{
+	text-align: justify;
+	font-weight: bold;
+	color: mediumvioletred;
+	text-align: justify;
+}
+
+
+a:link { color: blue; text-decoration: none;}
+a:visited { color: blue; text-decoration: none;}
+a:active { color: blue; text-decoration: none;}
+a:hover { color: red; text-decoration: underline;}
+
