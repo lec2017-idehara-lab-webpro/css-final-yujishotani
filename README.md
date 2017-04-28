@@ -33,6 +33,18 @@ git config user.email "29988777xx@tama.ac.jp"
 git config --global user.email "29988777xx@tama.ac.jp"
 ```
 
+# git で課題を提出する流れ（復習の復習）
+
+- tnext から課題リンクに飛ぶ
+- 画面の説明に沿って、宿題（assignment）を受け取る
+- 自分の課題リポジトリを開く
+- clone のためのリンクをコピーする
+- 自分のコンピュータの htdocs フォルダで ```git clone``` する
+- 自分のコンピュータ上でファイルを編集する
+- 自分のコンピュータの htdocs フォルダの中の課題リポジトリフォルダに移動する
+- ```git add -A``` で変更ファイルを全て追加する
+- 適当な区切りで ```git commit -m '......'``` でコメントをつけてコミットする
+- ```git push``` でプッシュする
 
 
 # 表示確認
@@ -41,5 +53,5 @@ xampp が正しくインストールされ、apache がサーバとして動作�
 
 http://localhost/各自のリポジトリ名/style.html
 
-で、このリポジトリの style.html ファイルが表示されるはずである。今回の「各自のリポジトリ名」は、css-basic-ユーザ名 である。
+で、このリポジトリの style.html ファイルが表示されるはずである。今回の「各自のリポジトリ名」は、css-basics-ユーザ名 である。
 
