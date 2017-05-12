@@ -24,8 +24,8 @@ CSS 側では、属性を ```タグ.クラス名``` で指定する。
 
 例：
 ```
-tr.odd { backgroud-color: green; }
-tr.even { backgroud-color: yellow; }
+tr.odd { background-color: green; }
+tr.even { background-color: yellow; }
 ```
 
 クラス名だけ指定すると、タグを問わず同一のクラスに同じ属性をいっせいに指定できる。
