@@ -35,3 +35,5 @@ a:visited { color: blue;}
 a:active { color: blue;}
 a:hover { color: red;}
 
+dl.rireki { color: white; background-color: #044; }
+dl.license { color: white; background-color: #404; }

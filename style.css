@@ -22,9 +22,10 @@ h3{
 	text-align: justify;
 }
 
-
 a:link { color: blue; text-decoration: none;}
 a:visited { color: blue; text-decoration: none;}
 a:active { color: blue; text-decoration: none;}
 a:hover { color: red; text-decoration: underline;}
 
+dl.rireki { color: white; background-color: teal; }
+dl.license { color: white; background-color: violet; }
